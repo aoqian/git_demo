@@ -4,7 +4,7 @@
 package com.aoqian.git;
 
 /**
- * @author Administrator
+ * @author aoqian
  *
  */
 public class GitTest {
